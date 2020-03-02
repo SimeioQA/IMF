@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Login to application is sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Admin tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Identity Repository tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on User List]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to test]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Scroll Down]]>
+    </line>
+    <line>
+      <![CDATA[Actual and Expected Employee Type are not Same]]>
+    </line>
+    <line>
+      <![CDATA[Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Login to application is sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Admin tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Identity Repository tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on User List]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to test]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Scroll Down]]>
+    </line>
+    <line>
+      <![CDATA[Actual and Expected Employee Type are not Same]]>
+    </line>
+    <line>
+      <![CDATA[Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Login to application is sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Admin tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Identity Repository tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on User List]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to test]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Scroll Down]]>
+    </line>
+    <line>
+      <![CDATA[Actual and Expected Employee Type are Same]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Login to application is sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Admin tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Identity Repository tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on User List]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to test]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Scroll Down]]>
+    </line>
+    <line>
+      <![CDATA[Actual and Expected Employee Type are Same]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Login to application is sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Admin tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Identity Repository tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on User List]]>
+    </line>
+    <line>
+      <![CDATA[Enter username to test]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[Searched User]]>
+    </line>
+    <line>
+      <![CDATA[User Details]]>
+    </line>
+    <line>
+      <![CDATA[Scroll Down]]>
+    </line>
+    <line>
+      <![CDATA[Actual and Expected Employee Type are not Same]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="452749" started-at="2020-02-28T08:20:54Z" finished-at="2020-02-28T08:28:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="452749" started-at="2020-02-28T08:20:54Z" finished-at="2020-02-28T08:28:27Z">
+      <class name="com.Demo.BluePrint">
+        <test-method status="PASS" signature="demoSAMtest()[pri:0, instance:com.Demo.BluePrint@6093dd95]" name="demoSAMtest" duration-ms="452713" started-at="2020-02-28T13:50:54Z" finished-at="2020-02-28T13:58:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Login to application is sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Home Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Admin tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Identity Repository tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on User List]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to test]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Scroll Down]]>
+            </line>
+            <line>
+              <![CDATA[Actual and Expected Employee Type are not Same]]>
+            </line>
+            <line>
+              <![CDATA[Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Login to application is sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Home Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Admin tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Identity Repository tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on User List]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to test]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Scroll Down]]>
+            </line>
+            <line>
+              <![CDATA[Actual and Expected Employee Type are not Same]]>
+            </line>
+            <line>
+              <![CDATA[Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Login to application is sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Home Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Admin tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Identity Repository tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on User List]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to test]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Scroll Down]]>
+            </line>
+            <line>
+              <![CDATA[Actual and Expected Employee Type are Same]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Login to application is sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Home Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Admin tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Identity Repository tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on User List]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to test]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Scroll Down]]>
+            </line>
+            <line>
+              <![CDATA[Actual and Expected Employee Type are Same]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Login to application is sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Home Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Admin tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Identity Repository tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on User List]]>
+            </line>
+            <line>
+              <![CDATA[Enter username to test]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[Searched User]]>
+            </line>
+            <line>
+              <![CDATA[User Details]]>
+            </line>
+            <line>
+              <![CDATA[Scroll Down]]>
+            </line>
+            <line>
+              <![CDATA[Actual and Expected Employee Type are not Same]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demoSAMtest -->
+      </class> <!-- com.Demo.BluePrint -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -26,13 +26,13 @@ public class BluePrint {
 	ArrayList<HashMap<String, String>> list;
 	private static Properties properties;
 	private final static String propertyFilePath = "Properties\\config.properties";
-
+	//this is pull push test
 	@Test
 	public void demoSAMtest() throws Exception {
 		properties = new Properties();
 		InputStream input = new FileInputStream(propertyFilePath);
 		properties.load(input);
-
+		//hello everyone this is push pull test
 		ExcelUtility readXlsx = new ExcelUtility();
 		ArrayList<HashMap<String, String>> list = readXlsx.readExcel(properties.getProperty("path.InputExcel"));
 		ArrayList<HashMap<String, String>> outputList = new ArrayList<HashMap<String, String>>();

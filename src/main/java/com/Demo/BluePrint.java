@@ -20,6 +20,8 @@ import demo_SAMpages.SavLogin;
 import demo_SAMpages.SAM_ReqAccessfrOthers;
 import demo_SAMpages.SAM_SelectAccessPage;
 */
+
+//new test final
 public class BluePrint {
 	public static WebDriver driver;
 	public HashMap<String, String> map;
